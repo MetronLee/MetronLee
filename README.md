@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-Science & Technology Undergraduate Scholar in National University of Singapore.
+NUS Science & Technology (S&T) Undergraduate Scholar.
+Currently studying CS.
 
-Pronoun: he/him/his.
+Pronouns: he/him/his.
 
 <!--
 **MetronLee/MetronLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
