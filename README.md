@@ -4,6 +4,8 @@
 - 🔭 I'm currently studying Computer Science + Quantitative Finance.
 - 🌱 I'm trying to get a grip on Continental Philosophy.
 
+Here is my [blog](https://metronlee.github.io/blog/).
+
 <!--
 **MetronLee/MetronLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
