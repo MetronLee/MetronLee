@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-NUS Science & Technology (S&T) Undergraduate Scholar.
-Currently studying CS.
-
-Pronouns: he/him/his.
+- 🎓 I'm an NUS Science & Technology (S&T) Undergraduate Scholar.
+- 🔭 I'm currently studying Computer Science + Quantitative Finance.
+- 🌱 I'm trying to get a grip on Continental Philosophy.
 
 <!--
 **MetronLee/MetronLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
