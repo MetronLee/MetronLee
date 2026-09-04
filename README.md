@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🎓 I'm an NUS Science & Technology (S&T) Undergraduate Scholar.
-- 🔭 I'm currently studying Computer Science + Quantitative Finance.
+- 🔭 I'm currently studying Computer Science + Mathematics.
 - 🌱 I'm trying to get a grip on Continental Philosophy.
 
 Here is my [blog](https://metronlee.github.io/blog/).
